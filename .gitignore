@@ -7,3 +7,6 @@ target/*
 target/*
 example/target/*
 generated/*
+chisel/*
+*.log
+
